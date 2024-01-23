@@ -1,4 +1,4 @@
-export default function Welcome( { ans }) {
+export default function Welcome(ans) {
   return (
     <div>
       <div>
